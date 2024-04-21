@@ -1,8 +1,8 @@
 # EDA e analise de churn para empresa de telecomunicação
 
-Churn: variálve alvo que representam o cancelamento da assinatura ou taxa de cancelamento.
+Churn: variável alvo que representam o cancelamento da assinatura ou taxa de cancelamento.
 
-De posse dos dados de navegação e vendas, faremos:
+De posse dos dados de usabilidade fornecidos, faremos:
 
 Etapa 1: Importar, tratar e analisar os dados (EDA).
 
